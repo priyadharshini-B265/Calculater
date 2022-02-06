@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+}
+
+#img {
+    height: 705px;
+    width: 100%;
+}
+
+#form {
+    width: 320px;
+    height: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 15px solid black;
+}
+
+.btn {
+    font-size: 24px;
+    padding: 20px;
+    width: 80px;
+    background-color: black;
+    color: white;
+    
+}
+
+.input {
+    width: 319px;
+    height: 115px;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+    font-size: 28px;
+}
+
+
+#item {
+    float: left;  
+}
+
+
